@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+streamlit
+pandas
+sqlalchemy
+neo4j
+matplotlib
+python-dotenv
